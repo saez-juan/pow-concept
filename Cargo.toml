@@ -1,0 +1,7 @@
+[package]
+name = "sha512-zeros"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+hmac-sha512 = "1.1.5"
